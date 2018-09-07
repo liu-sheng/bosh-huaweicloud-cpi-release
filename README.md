@@ -34,7 +34,7 @@ $ git clone https://github.com/zhongjun2/bosh-huaweicloud-cpi-release.git
 $ cd bosh-huaweicloud-cpi-release
 $ bosh create-release --force --tarball=../bosh-huaweicloud-cpi.tgz
 ```
-
+Test CI
 ## Usage
 
 ### Prepare your `Huawei Cloud` environment
