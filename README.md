@@ -14,6 +14,7 @@ which is a standard Bosh HuaweiCloud CPI. BOSH-Huaweicloud-CPI has added some en
 
 Maintainers
 -----------
+Test CI 2
 
 This provider plugin is maintained by:
 
